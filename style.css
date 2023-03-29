@@ -1,0 +1,30 @@
+body {
+    background-image: url(assets/todobg.min.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.to-do-container {
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(190, 190, 190, 0.8);
+}
+
+.to-do-space {
+    width: 10px;
+}
+
+.to-do-lg-container {
+    padding-top:80px;
+}
+
+.to-do-item-completed, .to-do-item-completed:active, .to-do-item-completed:hover {
+    font-style: italic;
+    text-decoration: line-through;
+    color: #dc3545;
+}
+
+.to-do-btn-mg {
+    margin: 3px 0;
+}

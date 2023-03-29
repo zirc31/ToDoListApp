@@ -10,7 +10,7 @@ You can contact me via [LinkedIn](https://www.linkedin.com/in/cx31-uiuxdev/) & [
 ## Attributes and Resources
 
 Fonts and Styling:
-  1. [Bootstrap](https://getbootstrap.com/):
+  1. [Bootstrap](https://getbootstrap.com/)
 
 Images used are downloaded from [Pexels](https://www.pexels.com/):
   1. [pexels-tim-gouw-53874.jpg](https://www.pexels.com/photo/pens-and-markers-on-case-53874/)
